@@ -5,6 +5,7 @@
     <ProjectReference Include="..\CreationalPattern\FactoryMethod\FactoryMethod.csproj" />
     <ProjectReference Include="..\CreationalPattern\Builder\Builder.csproj" />
     <ProjectReference Include="..\StructuralPattern\FlyWeight\FlyWeight.csproj" />
+    <ProjectReference Include="..\BehavioralPattern\Strategy\Strategy.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
